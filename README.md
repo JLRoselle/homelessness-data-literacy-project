@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-* 
+* [PowerBI Dashboard](#powerbi-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
@@ -13,7 +13,7 @@
 * [Sources](#data-sources)
 * [Conclusion](#conclusion)
 
-## Tableau Dashboard
+## PowerBI Dashboard
 
 
 ## Motivation:
@@ -24,7 +24,7 @@ Second, in the fast-changing world of AI and technology, the spread of misinform
 ## Questions:
 1) Do homeless communities have access to adequate shelter on the national, state, and local level?
 2) How are income and housing prices related?
-3) What lessons can be taught about correctly interpreting data and learning to recognize manipulations in visualizations?
+3) Can numbers lie?  What lessons can be taught about correctly interpreting data and learning to recognize manipulations in visualizations?
 
 
 ## Normalizing the Data
@@ -51,8 +51,8 @@ To answer the above questions I used the following sources to collect datasets f
 2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S. | HUD USER
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2024-PIT-Counts-by-State.xlsb&wdOrigin=BROWSELINK
 
-2024 AHAR: Part 1 - HIC Estimates of Homelessness in the U.S. | HUD USER
-https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2024-HIC-Counts-by-State.xlsx&wdOrigin=BROWSELINK
+    2024 AHAR: Part 1 - HIC Estimates of Homelessness in the U.S. | HUD USER
+    https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2024-HIC-Counts-by-State.xlsx&wdOrigin=BROWSELINK
 
 
 2) HUD definitions of terms and acronyms:
@@ -67,7 +67,19 @@ https://www.deptofnumbers.com/rent/tennessee/nashville/
 4) Tennessee and Davidson County specific Homeless Counts
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2024-PIT-Counts-by-CoC.xlsb&wdOrigin=BROWSELINK
 
-Tennessee and Davidson County specific Shelter Bed counts
-https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2024-HIC-Counts-by-CoC.xlsx&wdOrigin=BROWSELINK
+    Tennessee and Davidson County specific Shelter Bed counts
+    https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%2Fportal%2Fsites%2Fdefault%2Ffiles%2Fxls%2F2007-2024-HIC-Counts-by-CoC.xlsx&wdOrigin=BROWSELINK
 
 ## Conclusion
+My analysis shows that, overall, Nashville is sheltering its homeless community at a slightly higher rate than average. There is still a shortage of shelter beds available in most years, but there is a less significant shortage in Davidson County than we see on the state and national level. There was a significant drop in homeless population in 2021 at all levels-most likely due to Covid-19 eviction moratoriums. But in all cases, those numbers spiked again in 2022 and have either remained steady or have continued to increase. 
+
+Additionally, while it is often stated that homelessness numbers are rising due to an imbalance in housing prices and income, Nashville's rent to income ratio had stayed consistently around 20% before Covid. Nashville's vacancy rates have been increasing much more steadily than any other factor, which is likely due to a construction boom between 2010 and 2020. 
+
+Regarding data literacy lessons, I sought to create intentionally misleading graphs and to explain what makes a visualization "good" or "bad". 
+Through this practice, I affirmed my existing notion that color and shape are two easily manipulated variables that can either drive clear, concise reporting or lead any viewer astray. 
+I also found that certain types of visualizations are useless when applied to certain data structures. For instance, a scatterplot is a virtually meaningless graph when looking at changes over time but a perfect tool to show correlation between related factors. 
+A line and column chart is much more effective when comparing different values (count vs percentage) than when comparing same values of wildly varying amounts (10k vs 10m). A line chart is often much easier to read than an area chart. 
+Charts over time should always have a linear aspect that can be grouped by date or time-be that a line chart, ribbon chart, or bar chart. 
+Checking axes measurements, color coding, scale, and titles, legends and labels are a foolproof way to avoid being manipulated by data visualizations.  
+
+While data cannot lie exactly, it can certainly obfuscate, confuse, and deceive.
