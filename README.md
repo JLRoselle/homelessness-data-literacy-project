@@ -14,7 +14,7 @@
 * [Conclusion](#conclusion)
 
 ## PowerBI Dashboard
-
+https://app.powerbi.com/view?r=eyJrIjoiNGI1Yjg1ZWQtZGFjMi00YTVhLTg0NjgtN2Y2YTRhNmFhMjEwIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ## Motivation:
 My motivation for this project is two-fold. First, after 3.5 years with Louisville Metro Government’s Office of Housing, I am well aware of the issues plaguing unhoused families and individuals in the United States. From over-priced housing to under-funded community resources, homelessness continues to be a nearly inescapable burden. I was deeply impacted by my time spent working with vulnerable individuals in unstable living conditions and wanted to take this opportunity to shine a light on the inequity inherent in a system that views the right to shelter as a commodity. 
@@ -73,7 +73,7 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.huduser.gov%
 ## Conclusion
 My analysis shows that, overall, Nashville is sheltering its homeless community at a slightly higher rate than average. There is still a shortage of shelter beds available in most years, but there is a less significant shortage in Davidson County than we see on the state and national level. There was a significant drop in homeless population in 2021 at all levels-most likely due to Covid-19 eviction moratoriums. But in all cases, those numbers spiked again in 2022 and have either remained steady or have continued to increase. 
 
-Additionally, while it is often stated that homelessness numbers are rising due to an imbalance in housing prices and income, Nashville's rent to income ratio had stayed consistently around 20% before Covid. Nashville's vacancy rates have been increasing much more steadily than any other factor, which is likely due to a construction boom between 2010 and 2020. 
+Additionally, while it is often stated that homelessness numbers are rising due to an imbalance in housing prices and income, Nashville's rent to income ratio had stayed consistently around 20% before Covid. Nashville's vacancy rates have been increasing much more steadily than any other factor, which is likely due to a construction boom between 2010 and 2020 that has outpaced population growth. 
 
 Regarding data literacy lessons, I sought to create intentionally misleading graphs and to explain what makes a visualization "good" or "bad". 
 Through this practice, I affirmed my existing notion that color and shape are two easily manipulated variables that can either drive clear, concise reporting or lead any viewer astray. 
