@@ -7,7 +7,7 @@
 * [PowerBI Dashboard](#powerbi-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
-* [Normalizing the Data](#normaling-the-data)
+* [Normalizing the Data](#normalizing-the-data)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
 * [Sources](#data-sources)
