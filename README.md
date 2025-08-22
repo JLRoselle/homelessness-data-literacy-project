@@ -14,7 +14,7 @@
 * [Conclusion](#conclusion)
 
 ## PowerBI Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiNGI1Yjg1ZWQtZGFjMi00YTVhLTg0NjgtN2Y2YTRhNmFhMjEwIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
+https://app.powerbi.com/view?r=eyJrIjoiNGI1Yjg1ZWQtZGFjMi00YTVhLTg0NjgtN2Y2YTRhNmFhMjEwIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ae388e22c91dd628bde2
 
 ## Motivation:
 My motivation for this project is two-fold. First, after 3.5 years with Louisville Metro Government’s Office of Housing, I am well aware of the issues plaguing unhoused families and individuals in the United States. From over-priced housing to under-funded community resources, homelessness continues to be a nearly inescapable burden. I was deeply impacted by my time spent working with vulnerable individuals in unstable living conditions and wanted to take this opportunity to shine a light on the inequity inherent in a system that views the right to shelter as a commodity. 
